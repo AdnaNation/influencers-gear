@@ -1,0 +1,28 @@
+@media screen and (max-width: 576px) {
+    body {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    .main-product {
+        flex-direction: column-reverse;
+        width: 100%;
+        gap: 0;
+    }
+
+    .main-product-pic {
+        transform: scale(0.85);
+        position: relative;
+        right: 70px;
+    }
+
+    .content {
+        margin-top: 0;
+        text-align: center;
+        padding-left: 22px;
+    }
+}

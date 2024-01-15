@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Merriweather:wght@400;700;900&family=Open+Sans:wght@700&family=Poppins:wght@400;500;600;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
 
 body {
-    max-width: 1300px;
+    width: 100%;
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
 }
